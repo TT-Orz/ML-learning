@@ -20,20 +20,7 @@ This repo will grow step by step as I progress:
    - Pandas data manipulation  
    - Matplotlib for visualization  
 
-2. **Mathematical Foundations** 🟨  
-   - Linear algebra (vectors, matrices, transformations)  
-   - Probability & statistics  
-   - Optimization basics  
-
-3. **Machine Learning Models** ⬜  
-   - Regression (linear, logistic)  
-   - Classification (decision trees, SVMs, kNN)  
-   - Clustering (k-means, hierarchical)  
-
-4. **Applied Projects** ⬜  
-   - Titanic survival prediction  
-   - MNIST digit classification  
-   - Small end-to-end ML pipelines  
+... TBC  
 
 ---
 
