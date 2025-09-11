@@ -1,4 +1,4 @@
-# 📘 Learning-ML-Basics
+# 📘 ML-Learning
 
 A repository to store my practice notebooks and projects as part of my practical learning journey,  
 from **fundamentals** toward becoming a **professional Machine Learning engineer**.  
