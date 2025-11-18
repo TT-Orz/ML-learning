@@ -42,11 +42,11 @@ venv.bak/
 *.swo
 *~
 
-# Experimental results (optional - uncomment to ignore)
-# results/
-# figures/
-# test_results/
-# test_figures/
+# Experimental results (generated files - can be recreated)
+# results/  # Uncomment to ignore experimental results
+# figures/  # Uncomment to ignore generated figures
+test_results/
+test_figures/
 
 # Data (large files)
 data/*.csv
