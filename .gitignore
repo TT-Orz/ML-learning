@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Experimental results (generated files - can be recreated)
+# results/  # Uncomment to ignore experimental results
+# figures/  # Uncomment to ignore generated figures
+test_results/
+test_figures/
+
+# Data (large files)
+data/*.csv
+data/*.arff
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
