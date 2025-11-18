@@ -1,0 +1,27 @@
+# COMP3222 Machine Learning Coursework - Part 3
+# Experimental Evaluation of Classifiers on Categorical Datasets
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Data loading (OpenML datasets)
+# Note: scikit-learn includes OpenML functionality
+
+# Statistical analysis
+scikit-posthocs>=0.7.0  # For post-hoc tests (optional)
+
+# Jupyter (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilities
+tqdm>=4.62.0  # Progress bars (optional)
